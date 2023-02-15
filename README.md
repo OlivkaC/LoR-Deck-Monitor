@@ -16,6 +16,7 @@ Created, mainteained and tested by OlivkaC (aka Olive, 구미호)
 
 Contact me via:
 Discord: https://discord.gg/zu5zmMZppF
+
 GitHub: https://github.com/OlivkaC
 
 ------- Usage ------------------
